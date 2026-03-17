@@ -10,7 +10,6 @@ This repository contains my solutions, notes, and approaches for each challenge,
 - **patterns/** – Common algorithms and techniques learned from solving problems  
 
 Each problem has:
-- a solution file (Java)
 - a markdown file with my thought process, approaches, and lessons learned
 
 ---
